@@ -1,4 +1,4 @@
-# First level 2 chllenge gostack
+# First level 2 challenge for bootcamp gostack
 First gostack challenge (topics about nodejs)
 
 Topics and exercises about nodejs, webservices rest and how to create basics services using these technologies as also Typescript, services and SOLID patterns.
